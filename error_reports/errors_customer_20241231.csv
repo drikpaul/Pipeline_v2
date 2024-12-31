@@ -1,0 +1,2 @@
+customer_id,first_name,last_name,gender,email,membership_status,address,phone_number,date_of_birth,job,company,city,state,country,language,error_messages
+97676629928316309,Travis,Gonzales,; DROP TABLE users; --,collinsrobert@example.com,inactive,,,1946-05-13,,,,,,en-US,Invalid gender: ; DROP TABLE users; --
